@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Brian Lynch"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Technical Leadership. Scientific Depth. Strategic Execution."
+  bio              : "Technical Leadership. Scientific Depth. Strategic Execution."
+  location         : "Huntsville, AL"
+  employer         : #""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : #"none@example.org" 
 
   # Academic websites
   academia         : # URL
